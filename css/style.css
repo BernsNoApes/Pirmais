@@ -1,7 +1,7 @@
 .teksts {
 display: flex;
 padding: 16px 32px 8px;
-margin: 8px 12px;
+margin-left: 50%;
 background-color: #00ffff;
 font-family: 'Courier New', Courier, monospace;
 font-size: 32px;
@@ -11,7 +11,7 @@ font-size: 32px;
   border-color: blue;
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
-  margin: 50px 20px 50px 20px;
+  margin-left: 50%;
 }
 .iesniegt {
   border-style: solid;
@@ -27,6 +27,6 @@ font-size: 32px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin-left: 50%;
   cursor: pointer;
 }
