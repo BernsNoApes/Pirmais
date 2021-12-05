@@ -7,10 +7,11 @@ font-family: 'Courier New', Courier, monospace;
 font-size: 32px;
 }
 .arejaKaste {
-  border-style: dotted;
+  border-style: ridge;
   border-color: green;
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
+  margin: auto;
 }
 .iesniegt {
   border-style: solid;
