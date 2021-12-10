@@ -10,6 +10,8 @@ font-size: 32px;
   border-color: black;
   border-spacing: 50px;
   background-image: url("24.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 10px 10px 10px 10px;
   margin-left: auto;
   margin-right: auto;
